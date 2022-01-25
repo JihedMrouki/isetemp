@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328311013353",
+    "project_id": "empisetso",
+    "storage_bucket": "empisetso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328311013353:android:efd1cfee3a020bf591d578",
+        "android_client_info": {
+          "package_name": "com.example.iset_emploi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328311013353-avuubaog8olgre98hbhk1v9eelinoocr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcKYYf9IRAkQpSI54j2PyRKHrQnS8pcWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328311013353-avuubaog8olgre98hbhk1v9eelinoocr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
